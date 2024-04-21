@@ -8,10 +8,10 @@ If using a virtual environment, please activate the environment and then follow 
 ### Flask Application Structure 
 
 .
-|───server.py
-|───generator.py
-|───requirements.txt
-|───README.md
+|───server.py  
+|───generator.py  
+|───requirements.txt    
+|───README.md  
 
 
 ### Install all the dependicies
