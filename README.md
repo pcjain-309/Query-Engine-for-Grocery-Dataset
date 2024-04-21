@@ -7,7 +7,7 @@ If using a virtual environment, please activate the environment and then follow 
 ## Installation
 ### Flask Application Structure 
 
-.
+.  
 |───server.py  
 |───generator.py  
 |───requirements.txt    
