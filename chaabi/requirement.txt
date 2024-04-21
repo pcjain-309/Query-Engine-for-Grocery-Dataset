@@ -1,0 +1,4 @@
+flask
+langchain
+cohere
+pinecone-client
